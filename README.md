@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annak1104&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=annak1104&theme=gruvbox&no-frame=true" alt="Trophies" />
+<div align="left">
+    <h3>📈 My UpWork:</h3>
+    <a href="https://www.upwork.com/freelancers/~01f2713bd782ef8514" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
+      <span>Invite me</span>
+    </a>
+  </div>
 
 - 📫 How to reach me **andriinakonechnyi.work@gmail.com**
 
