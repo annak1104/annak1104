@@ -1,6 +1,7 @@
 # Hi 👋, I'm Andrii Nakonechnyi
 
-### Frontend developer
+### Front-End Development | 3+ Years of Experience | React.js & Next.js
+🚀 I help startups and businesses build fast, scalable, and high-converting web applications using Next.js and React. My focus is clean architecture, performance, and user experience — so your product loads fast, scales smoothly, and is easy to maintain.
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCfHFn3HLpxkSBJ7Azm9E-3eUK5V5_DcNq_A&s" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annak1104&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
@@ -27,15 +28,8 @@
 
 ### GitHub Stats
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=annak1104&show_icons=true&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annak1104&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annak1104&show_icons=true" alt="GitHub Stats" /></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=annak1104&theme=gruvbox&no-frame=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annak1104&theme=dark" alt="GitHub Streak" />
-</p>
