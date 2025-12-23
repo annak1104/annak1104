@@ -13,10 +13,6 @@
     </a>
   </div>
 
-- 📫 How to reach me **andriinakonechnyi.work@gmail.com**
-
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/164yIyyxOGP1WDDd_r7jQcbhzILqro6Nj/view?usp=sharing)**
-
 ### Connect with me
 <p align="left">
 <a href="https://github.com/annak1104" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
